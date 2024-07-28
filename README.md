@@ -6,7 +6,7 @@
 - 🌱 Aprendiendo sobre **Docker** y **Kubernetes**.
 - 👯 Buscando colaborar en proyectos de **código abierto**.
 - 💬 Pregúntame sobre **JavaScript, TypeScript, y .NET**.
-- 📫 Cómo contactarme: [LinkedIn]([https://www.linkedin.com/in/cristianorizano/](https://www.linkedin.com/in/cristian-orizano-1528a1311/)).
+- 📫 Cómo contactarme: [LinkedIn]([https://www.linkedin.com/in/cristianorizano/](https://www.linkedin.com/in/cristian-orizano-1528a1311/).
 
 ### Tecnologías y Herramientas:
 
