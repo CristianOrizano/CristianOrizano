@@ -11,6 +11,10 @@
 ### Tecnologías y Herramientas:
 
 <div align="center">
+      <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,express,postman" /><br>
+      <img src="https://skillicons.dev/icons?i=react,vite,angular,css,html,js,ts,bootstrap" /><br>
+      
+     
      <img src="https://skillicons.dev/icons?i=sqlserver,mysql,angular,react,java,springboot,cs,aspnetcore,jwt,designpatterns,agile,nodejs,express,html,css,javascript,typescript,bootstrap,r" />
 
 </div>
