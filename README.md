@@ -5,7 +5,6 @@
 - 💪 Habilidades destacadas: Desarrollo de APIs RESTful, integración de sistemas, optimización de rendimiento, y implementación de soluciones escalables.
 - 🌱 Aprendiendo sobre **Docker** y **Kubernetes**.
 - 📈 Experiencia en: Desarrollo ágil con Scrum, aplicación de patrones de diseño, y mejora continua en proyectos de software.
-- 💬 Pregúntame sobre **Java, Node.Js Express, JWT, y .NET**.
 - 📫 Cómo contactarme: [LinkedIn]([https://www.linkedin.com/in/cristianorizano/](https://www.linkedin.com/in/cristian-orizano-1528a1311/).
 
 ### Tecnologías y Herramientas:
