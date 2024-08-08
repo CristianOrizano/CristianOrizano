@@ -18,5 +18,5 @@
 
 ### Proyectos Destacados:
 
-- [Proyecto CRUD con Node.js](https://github.com/CristianOrizano/App-CRUD-NodeJS)
+- [GestionVentas](https://github.com/CristianOrizano/App-GestionVentas-Angular)
 - [FusionFood](https://github.com/CristianOrizano/App-FusionFood-React)
