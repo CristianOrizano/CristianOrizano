@@ -11,8 +11,11 @@
 
 <div align="center">
       <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,express,prisma,postman" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"width="42" height="42"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"width="42" height="42" /> <br>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"width="42" height="42"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"width="42" height="42" /> <br>
       <img src="https://skillicons.dev/icons?i=react,vite,angular,css,html,js,ts,bootstrap" /><br>
+       <img src="https://skillicons.dev/icons?i=nestjs" /><br>
+
 
 </div>
 
