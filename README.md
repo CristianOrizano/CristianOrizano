@@ -6,6 +6,7 @@
 - 🌱 Aprendiendo sobre **Docker** y **Kubernetes**.
 - 📈 Experiencia en: Desarrollo ágil con Scrum, aplicación de patrones de diseño, y mejora continua en proyectos de software.
 - 📫 Cómo contactarme: [LinkedIn]([https://www.linkedin.com/in/cristianorizano/](https://www.linkedin.com/in/cristian-orizano-1528a1311/).
+- 🐳 Perfil de Docker: [cristianorizano10](https://hub.docker.com/u/cristianorizano10)
 
 ### Tecnologías y Herramientas:
 
