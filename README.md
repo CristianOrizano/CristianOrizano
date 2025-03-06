@@ -22,5 +22,5 @@
 
 ### Proyectos Destacados:
 
-- [GestionVentas](https://github.com/CristianOrizano/App-GestionVentas-Angular)
+- [ElectroDash](https://github.com/CristianOrizano/App-ElectroDash-Angular)
 - [FusionFood](https://github.com/CristianOrizano/App-FusionFood-React)
